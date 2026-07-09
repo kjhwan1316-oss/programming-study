@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="836c3fd3-d765-4947-aa75-4db5f4e9db9d" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/FileContentIndex/22960257-ec50-4d1a-b32f-d9207f78ebcf.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/FileContentIndex/8e286778-0c0c-4fbd-a347-dc75e413b03a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/FileContentIndex/94e4332c-823e-4601-abea-dc002cb3e51f.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/FileContentIndex/cc8da983-6e1c-4b7d-8a84-1f0dc9ed28bb.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/FileContentIndex/f508aef9-176e-4ae8-b41b-559fe268265a.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/Browse.VC.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/DocumentLayout.backup.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/DocumentLayout.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/1fbb79953966831b/STRUCT2.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/292cfbac91d0608a/UNION1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/3a5a8c9548a840b2/STRUCT1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/3a78891d6f37d56d/MAIN.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/4ad586fc69b08915/EXCHANGE.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/.vs/user_define_type.slnx/v18/ipch/AutoPCH/ad46039703a89f22/ENUM1.ipch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/enum1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/exchange.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/exchange.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/main.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/struct1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/struct2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/union1.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type.slnx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type.vcxproj.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/enum1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/exchange.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/main.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/struct1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/struct2.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/union1.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/Cl.items.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/link.secondary.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/user_define_type.tlog/user_define_type.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/vc145.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/user_define_type/x64/Debug/vc145.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/x64/Debug/user_define_type.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../user_define_type/x64/Debug/user_define_type.pdb" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GF9n6GpuiMREmeNR8MIinHDYx8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/programming study/JAVA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.26222.65" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.26222.65" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="836c3fd3-d765-4947-aa75-4db5f4e9db9d" name="변경" comment="" />
+      <created>1783556613533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1783556613533</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
