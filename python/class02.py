@@ -22,7 +22,7 @@ class Type_class:
     def t_data(self,data):
         if isinstance(data, int):
             print("정수:",data)
-        elif isinstance(data, strㄴ):
+        elif isinstance(data, str):
             print("문자열:")
         elif isinstance(data, list):
             print("리스트:",data)
